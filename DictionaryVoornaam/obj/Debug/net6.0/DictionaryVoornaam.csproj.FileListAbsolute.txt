@@ -1,0 +1,15 @@
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\bin\Debug\net6.0\DictionaryVoornaam.exe
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\bin\Debug\net6.0\DictionaryVoornaam.deps.json
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\bin\Debug\net6.0\DictionaryVoornaam.runtimeconfig.json
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\bin\Debug\net6.0\DictionaryVoornaam.dll
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\bin\Debug\net6.0\DictionaryVoornaam.pdb
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\DictionaryVoornaam.csproj.AssemblyReference.cache
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\DictionaryVoornaam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\DictionaryVoornaam.AssemblyInfoInputs.cache
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\DictionaryVoornaam.AssemblyInfo.cs
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\DictionaryVoornaam.csproj.CoreCompileInputs.cache
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\DictionaryVoornaam.dll
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\refint\DictionaryVoornaam.dll
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\DictionaryVoornaam.pdb
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\DictionaryVoornaam.genruntimeconfig.cache
+C:\Schooljaar2022-2023\periode 2\tts_rik\DictionaryVoornaam\obj\Debug\net6.0\ref\DictionaryVoornaam.dll
